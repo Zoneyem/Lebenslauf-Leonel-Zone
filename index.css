@@ -36,10 +36,6 @@ h3{
     font-family:  'Azeret Mono', monospace;
 }
 
-main {
-    max-width: 800px;
-    margin: 0 auto;
-  }
 
 
   header{
@@ -48,8 +44,4 @@ main {
         max-width: 800px;
         
       
-  }
-
-  img{
-      
-  }
+  
