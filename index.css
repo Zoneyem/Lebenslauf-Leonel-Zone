@@ -4,13 +4,20 @@ body{
     box-sizing: border-box;
 
     
-    max-width: 1200px;
+    
         margin: 0 auto;
       
 }
 *,
 *::before , *::after{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 
